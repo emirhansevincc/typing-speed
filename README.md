@@ -1,3 +1,4 @@
+![typing-speed](https://user-images.githubusercontent.com/85807749/185759424-b79ea9a7-c6b0-4c4d-a5a4-a67b8c7da181.png)
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
